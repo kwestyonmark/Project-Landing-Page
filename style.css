@@ -95,6 +95,18 @@ button {
 img {
     padding-top: 2rem;
     /* margin-right: 2rem; */
+    /* border: solid gray; */ 
+}
+
+.image {
+    border: solid grey;
+    width: 400px;
+    display: flex;
+    flex-shrink: 0;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+    color: #e5e7eb;
 }
   
 
